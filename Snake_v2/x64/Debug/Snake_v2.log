@@ -1,0 +1,6 @@
+﻿  Snake.cpp
+c:\users\sam\documents\school\sophomore year\computing iii\homework\snake_v2\snake_v2\snake.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+c:\users\sam\documents\school\sophomore year\computing iii\homework\snake_v2\snake_v2\main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Snake_v2.vcxproj -> C:\Users\Sam\Documents\School\Sophomore Year\Computing III\Homework\Snake_v2\x64\Debug\Snake_v2.exe
