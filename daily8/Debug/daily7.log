@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (daily7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BigInt.cpp
+c:\users\sam\documents\school\sophomore year\computing iii\homework\daily8\daily7\bigint.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\documents\school\sophomore year\computing iii\homework\daily8\daily7\bigint.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\documents\school\sophomore year\computing iii\homework\daily8\daily7\bigint.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\documents\school\sophomore year\computing iii\homework\daily8\daily7\bigint.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\documents\school\sophomore year\computing iii\homework\daily8\daily7\bigint.cpp(255): warning C4018: '<': signed/unsigned mismatch
+  daily7.vcxproj -> C:\Users\Sam\Documents\School\Sophomore Year\Computing III\Homework\daily8\Debug\daily8.exe
